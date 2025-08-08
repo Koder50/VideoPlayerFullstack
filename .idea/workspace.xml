@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f50c657-2837-4975-a73b-77cf2e9e0ee1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Koder50&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Koder50/FullstackHeroku2.git&quot;,
+    &quot;accountId&quot;: &quot;59f5a377-e2f4-45cb-9f3d-817d540443ee&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2gSNUy7wQDHQuaCr7iyOEnX8NLA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Chapter-17.executor": "Run",
+    "Application.Video player.executor": "Run",
+    "Application.VideoPlayerApp.executor": "Run",
+    "Application.VideoPlayersApplication.executor": "Run",
+    "Maven. [clean,install].executor": "Run",
+    "Maven. [install].executor": "Run",
+    "Maven.superheroes [clean,install].executor": "Run",
+    "Maven.superheroes [clean].executor": "Run",
+    "Maven.superheroes [deploy].executor": "Run",
+    "Maven.superheroes [install].executor": "Run",
+    "Maven.superheroes [package].executor": "Run",
+    "Maven.videoplayers [clean,install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/PROGRAMOWANIE KAROL/Fullstack/VideoPlayerFullstack3",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PROGRAMOWANIE KAROL\Fullstack\Chapter17" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PROGRAMOWANIE KAROL\Fullstack\Chapter17\superheroes" />
+      <recent name="C:\PROGRAMOWANIE KAROL\Fullstack\Chapter17\superheroes\target" />
+      <recent name="C:\PROGRAMOWANIE KAROL\Fullstack\Chapter17" />
+      <recent name="C:\PROGRAMOWANIE KAROL\Fullstack\Chapter17\logs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Video player">
+    <configuration name="Chapter-17" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="MAIN_CLASS_NAME" value="com.example.springbootvideoplayers.videoplayers.VideoPlayersApplication" />
+      <module name="videoplayers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Video player" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.springbootvideoplayers.videoplayers.VideoPlayersApplication" />
+      <module name="videoplayers" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Chapter-17" />
+      <item itemvalue="Application.Video player" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f50c657-2837-4975-a73b-77cf2e9e0ee1" name="Changes" comment="" />
+      <created>1715687041263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715687041263</updated>
+    </task>
+    <task id="LOCAL-00702" summary="Add changes for videoPlayerHistorical comparison version 22">
+      <option name="closed" value="true" />
+      <created>1719584267268</created>
+      <option name="number" value="00702" />
+      <option name="presentableId" value="LOCAL-00702" />
+      <option name="project" value="LOCAL" />
+      <updated>1719584267268</updated>
+    </task>
+    <task id="LOCAL-00703" summary="Add changes for videoPlayerHistorical comparison version 23">
+      <option name="closed" value="true" />
+      <created>1719584607082</created>
+      <option name="number" value="00703" />
+      <option name="presentableId" value="LOCAL-00703" />
+      <option name="project" value="LOCAL" />
+      <updated>1719584607082</updated>
+    </task>
+    <task id="LOCAL-00704" summary="Add changes for videoPlayerHistorical comparison version 24">
+      <option name="closed" value="true" />
+      <created>1719584906591</created>
+      <option name="number" value="00704" />
+      <option name="presentableId" value="LOCAL-00704" />
+      <option name="project" value="LOCAL" />
+      <updated>1719584906591</updated>
+    </task>
+    <task id="LOCAL-00705" summary="Add changes for videoPlayerHistorical comparison version 25">
+      <option name="closed" value="true" />
+      <created>1719585615490</created>
+      <option name="number" value="00705" />
+      <option name="presentableId" value="LOCAL-00705" />
+      <option name="project" value="LOCAL" />
+      <updated>1719585615490</updated>
+    </task>
+    <task id="LOCAL-00706" summary="Add changes for videoPlayerHistorical comparison version 26">
+      <option name="closed" value="true" />
+      <created>1719585743108</created>
+      <option name="number" value="00706" />
+      <option name="presentableId" value="LOCAL-00706" />
+      <option name="project" value="LOCAL" />
+      <updated>1719585743108</updated>
+    </task>
+    <task id="LOCAL-00707" summary="Add changes for videoPlayerHistorical comparison version 27">
+      <option name="closed" value="true" />
+      <created>1719586137142</created>
+      <option name="number" value="00707" />
+      <option name="presentableId" value="LOCAL-00707" />
+      <option name="project" value="LOCAL" />
+      <updated>1719586137142</updated>
+    </task>
+    <task id="LOCAL-00708" summary="Add changes for videoPlayerHistorical comparison version 28">
+      <option name="closed" value="true" />
+      <created>1719587673854</created>
+      <option name="number" value="00708" />
+      <option name="presentableId" value="LOCAL-00708" />
+      <option name="project" value="LOCAL" />
+      <updated>1719587673854</updated>
+    </task>
+    <task id="LOCAL-00709" summary="Add changes for videoPlayerHistorical comparison version 29">
+      <option name="closed" value="true" />
+      <created>1719587864453</created>
+      <option name="number" value="00709" />
+      <option name="presentableId" value="LOCAL-00709" />
+      <option name="project" value="LOCAL" />
+      <updated>1719587864453</updated>
+    </task>
+    <task id="LOCAL-00710" summary="Add changes for videoPlayerHistorical comparison version 30">
+      <option name="closed" value="true" />
+      <created>1719588845949</created>
+      <option name="number" value="00710" />
+      <option name="presentableId" value="LOCAL-00710" />
+      <option name="project" value="LOCAL" />
+      <updated>1719588845949</updated>
+    </task>
+    <task id="LOCAL-00711" summary="Add changes for videoPlayerHistorical comparison version 31">
+      <option name="closed" value="true" />
+      <created>1719588910592</created>
+      <option name="number" value="00711" />
+      <option name="presentableId" value="LOCAL-00711" />
+      <option name="project" value="LOCAL" />
+      <updated>1719588910592</updated>
+    </task>
+    <task id="LOCAL-00712" summary="Add changes for videoPlayerHistorical comparison version 32">
+      <option name="closed" value="true" />
+      <created>1719588977952</created>
+      <option name="number" value="00712" />
+      <option name="presentableId" value="LOCAL-00712" />
+      <option name="project" value="LOCAL" />
+      <updated>1719588977952</updated>
+    </task>
+    <task id="LOCAL-00713" summary="Add changes for videoPlayerHistorical comparison version 33">
+      <option name="closed" value="true" />
+      <created>1719589136629</created>
+      <option name="number" value="00713" />
+      <option name="presentableId" value="LOCAL-00713" />
+      <option name="project" value="LOCAL" />
+      <updated>1719589136629</updated>
+    </task>
+    <task id="LOCAL-00714" summary="Add imports for pipe and filter">
+      <option name="closed" value="true" />
+      <created>1719589376588</created>
+      <option name="number" value="00714" />
+      <option name="presentableId" value="LOCAL-00714" />
+      <option name="project" value="LOCAL" />
+      <updated>1719589376588</updated>
+    </task>
+    <task id="LOCAL-00715" summary="Add [] to VideoPlayerHistorical type">
+      <option name="closed" value="true" />
+      <created>1719589558164</created>
+      <option name="number" value="00715" />
+      <option name="presentableId" value="LOCAL-00715" />
+      <option name="project" value="LOCAL" />
+      <updated>1719589558164</updated>
+    </task>
+    <task id="LOCAL-00716" summary="Add VideoPlayerHistorical type to any">
+      <option name="closed" value="true" />
+      <created>1719589774685</created>
+      <option name="number" value="00716" />
+      <option name="presentableId" value="LOCAL-00716" />
+      <option name="project" value="LOCAL" />
+      <updated>1719589774685</updated>
+    </task>
+    <task id="LOCAL-00717" summary="Delete VideoPlayerHistorical filter add selectVideoPlayersHistorical() instead">
+      <option name="closed" value="true" />
+      <created>1719590181770</created>
+      <option name="number" value="00717" />
+      <option name="presentableId" value="LOCAL-00717" />
+      <option name="project" value="LOCAL" />
+      <updated>1719590181770</updated>
+    </task>
+    <task id="LOCAL-00718" summary="Delete VideoPlayerHistorical filter add selectVideoPlayersHistorical() instead version 2">
+      <option name="closed" value="true" />
+      <created>1719590337589</created>
+      <option name="number" value="00718" />
+      <option name="presentableId" value="LOCAL-00718" />
+      <option name="project" value="LOCAL" />
+      <updated>1719590337589</updated>
+    </task>
+    <task id="LOCAL-00719" summary="Add only assignVideoPlayersHistorical instead version">
+      <option name="closed" value="true" />
+      <created>1719590886696</created>
+      <option name="number" value="00719" />
+      <option name="presentableId" value="LOCAL-00719" />
+      <option name="project" value="LOCAL" />
+      <updated>1719590886696</updated>
+    </task>
+    <task id="LOCAL-00720" summary="Delete only assignVideoPlayersHistorical">
+      <option name="closed" value="true" />
+      <created>1719591789200</created>
+      <option name="number" value="00720" />
+      <option name="presentableId" value="LOCAL-00720" />
+      <option name="project" value="LOCAL" />
+      <updated>1719591789200</updated>
+    </task>
+    <task id="LOCAL-00721" summary="Comment GET_VIDEO_PLAYER_HISTORICAL_LIST">
+      <option name="closed" value="true" />
+      <created>1719592409641</created>
+      <option name="number" value="00721" />
+      <option name="presentableId" value="LOCAL-00721" />
+      <option name="project" value="LOCAL" />
+      <updated>1719592409641</updated>
+    </task>
+    <task id="LOCAL-00722" summary="Comment filter(v=&gt;v.id!=this.videoPlayersHistorical[j].id)">
+      <option name="closed" value="true" />
+      <created>1719592949413</created>
+      <option name="number" value="00722" />
+      <option name="presentableId" value="LOCAL-00722" />
+      <option name="project" value="LOCAL" />
+      <updated>1719592949413</updated>
+    </task>
+    <task id="LOCAL-00723" summary="Uncomment filter(v=&gt;v.id!=this.videoPlayersHistorical[j].id)">
+      <option name="closed" value="true" />
+      <created>1719593292848</created>
+      <option name="number" value="00723" />
+      <option name="presentableId" value="LOCAL-00723" />
+      <option name="project" value="LOCAL" />
+      <updated>1719593292848</updated>
+    </task>
+    <task id="LOCAL-00724" summary="Uncomment GET_VIDEO_PLAYER_HISTORICAL_LIST">
+      <option name="closed" value="true" />
+      <created>1719593561152</created>
+      <option name="number" value="00724" />
+      <option name="presentableId" value="LOCAL-00724" />
+      <option name="project" value="LOCAL" />
+      <updated>1719593561152</updated>
+    </task>
+    <task id="LOCAL-00725" summary="Uncomment assignVideoPlayersHistorical()">
+      <option name="closed" value="true" />
+      <created>1719593808546</created>
+      <option name="number" value="00725" />
+      <option name="presentableId" value="LOCAL-00725" />
+      <option name="project" value="LOCAL" />
+      <updated>1719593808546</updated>
+    </task>
+    <task id="LOCAL-00726" summary="Add this.deleteVPH(1); in list.component.ts">
+      <option name="closed" value="true" />
+      <created>1719596865333</created>
+      <option name="number" value="00726" />
+      <option name="presentableId" value="LOCAL-00726" />
+      <option name="project" value="LOCAL" />
+      <updated>1719596865334</updated>
+    </task>
+    <task id="LOCAL-00727" summary="Change condition for this.deleteVPH(1); in list.component.ts">
+      <option name="closed" value="true" />
+      <created>1719597754502</created>
+      <option name="number" value="00727" />
+      <option name="presentableId" value="LOCAL-00727" />
+      <option name="project" value="LOCAL" />
+      <updated>1719597754502</updated>
+    </task>
+    <task id="LOCAL-00728" summary="Add localStorage.setItem(&quot;vPHid&quot;,(sourceAll.id).toString());">
+      <option name="closed" value="true" />
+      <created>1719599502832</created>
+      <option name="number" value="00728" />
+      <option name="presentableId" value="LOCAL-00728" />
+      <option name="project" value="LOCAL" />
+      <updated>1719599502832</updated>
+    </task>
+    <task id="LOCAL-00729" summary="Delete localStorage.setItem(&quot;vPHid&quot;,(sourceAll.id).toString());">
+      <option name="closed" value="true" />
+      <created>1719599971280</created>
+      <option name="number" value="00729" />
+      <option name="presentableId" value="LOCAL-00729" />
+      <option name="project" value="LOCAL" />
+      <updated>1719599971280</updated>
+    </task>
+    <task id="LOCAL-00730" summary="Add two source.id toolbars in video-player-list.component.html">
+      <option name="closed" value="true" />
+      <created>1719827989255</created>
+      <option name="number" value="00730" />
+      <option name="presentableId" value="LOCAL-00730" />
+      <option name="project" value="LOCAL" />
+      <updated>1719827989255</updated>
+    </task>
+    <task id="LOCAL-00731" summary="Change VideoPlayerHistoricalEntity not to generate UUID.">
+      <option name="closed" value="true" />
+      <created>1719828624118</created>
+      <option name="number" value="00731" />
+      <option name="presentableId" value="LOCAL-00731" />
+      <option name="project" value="LOCAL" />
+      <updated>1719828624118</updated>
+    </task>
+    <task id="LOCAL-00732" summary="Change VideoPlayerHistoricalEntity not to generate UUID version 2">
+      <option name="closed" value="true" />
+      <created>1719828991297</created>
+      <option name="number" value="00732" />
+      <option name="presentableId" value="LOCAL-00732" />
+      <option name="project" value="LOCAL" />
+      <updated>1719828991297</updated>
+    </task>
+    <task id="LOCAL-00733" summary="Change VideoPlayerHistoricalEntity to generate UUID with id assignment">
+      <option name="closed" value="true" />
+      <created>1719830301777</created>
+      <option name="number" value="00733" />
+      <option name="presentableId" value="LOCAL-00733" />
+      <option name="project" value="LOCAL" />
+      <updated>1719830301777</updated>
+    </task>
+    <task id="LOCAL-00734" summary="Change back VideoPlayerHistoricalEntity to generate UUID">
+      <option name="closed" value="true" />
+      <created>1719830769727</created>
+      <option name="number" value="00734" />
+      <option name="presentableId" value="LOCAL-00734" />
+      <option name="project" value="LOCAL" />
+      <updated>1719830769727</updated>
+    </task>
+    <task id="LOCAL-00735" summary="After store add put GET_VIDEO_PLAYER_HISTORICAL_LIST and assignVideoPlayersHistorical()">
+      <option name="closed" value="true" />
+      <created>1719831360673</created>
+      <option name="number" value="00735" />
+      <option name="presentableId" value="LOCAL-00735" />
+      <option name="project" value="LOCAL" />
+      <updated>1719831360673</updated>
+    </task>
+    <task id="LOCAL-00736" summary="Put after store add GET_VIDEO_PLAYER_HISTORICAL_LIST and assignVideoPlayersHistorical() second time">
+      <option name="closed" value="true" />
+      <created>1719831493652</created>
+      <option name="number" value="00736" />
+      <option name="presentableId" value="LOCAL-00736" />
+      <option name="project" value="LOCAL" />
+      <updated>1719831493652</updated>
+    </task>
+    <task id="LOCAL-00737" summary="Put after store add GET_VIDEO_PLAYER_HISTORICAL_LIST and assignVideoPlayersHistorical() second time version 2">
+      <option name="closed" value="true" />
+      <created>1719832065154</created>
+      <option name="number" value="00737" />
+      <option name="presentableId" value="LOCAL-00737" />
+      <option name="project" value="LOCAL" />
+      <updated>1719832065154</updated>
+    </task>
+    <task id="LOCAL-00738" summary="Filter GET_VIDEO_PLAYER_HISTORICAL_LIST only for correct watchedUser">
+      <option name="closed" value="true" />
+      <created>1719833818642</created>
+      <option name="number" value="00738" />
+      <option name="presentableId" value="LOCAL-00738" />
+      <option name="project" value="LOCAL" />
+      <updated>1719833818642</updated>
+    </task>
+    <task id="LOCAL-00739" summary="Filter GET_VIDEO_PLAYER_HISTORICAL_LIST only for correct watchedUser version 2">
+      <option name="closed" value="true" />
+      <created>1719833998262</created>
+      <option name="number" value="00739" />
+      <option name="presentableId" value="LOCAL-00739" />
+      <option name="project" value="LOCAL" />
+      <updated>1719833998262</updated>
+    </task>
+    <task id="LOCAL-00740" summary="Add  border-radius: 5px; where needed">
+      <option name="closed" value="true" />
+      <created>1719835377381</created>
+      <option name="number" value="00740" />
+      <option name="presentableId" value="LOCAL-00740" />
+      <option name="project" value="LOCAL" />
+      <updated>1719835377381</updated>
+    </task>
+    <task id="LOCAL-00741" summary="Add  border-radius: 15px; where needed">
+      <option name="closed" value="true" />
+      <created>1719835858787</created>
+      <option name="number" value="00741" />
+      <option name="presentableId" value="LOCAL-00741" />
+      <option name="project" value="LOCAL" />
+      <updated>1719835858787</updated>
+    </task>
+    <task id="LOCAL-00742" summary="Add  border-radius: 15px to css in command and add @PreAuthorize(&quot;isAuthenticated()&quot;)@SecurityRequirement(name = &quot;bearerAuth&quot;) for User, VideoPlayer and VideoPlayerHistorical Controllers">
+      <option name="closed" value="true" />
+      <created>1719836844018</created>
+      <option name="number" value="00742" />
+      <option name="presentableId" value="LOCAL-00742" />
+      <option name="project" value="LOCAL" />
+      <updated>1719836844018</updated>
+    </task>
+    <task id="LOCAL-00743" summary="Delete all slice from date">
+      <option name="closed" value="true" />
+      <created>1719837925584</created>
+      <option name="number" value="00743" />
+      <option name="presentableId" value="LOCAL-00743" />
+      <option name="project" value="LOCAL" />
+      <updated>1719837925584</updated>
+    </task>
+    <task id="LOCAL-00744" summary="Fix border-radius: 15px for command toolbar">
+      <option name="closed" value="true" />
+      <created>1719839111704</created>
+      <option name="number" value="00744" />
+      <option name="presentableId" value="LOCAL-00744" />
+      <option name="project" value="LOCAL" />
+      <updated>1719839111704</updated>
+    </task>
+    <task id="LOCAL-00745" summary="Add code readability improvements">
+      <option name="closed" value="true" />
+      <created>1719842696661</created>
+      <option name="number" value="00745" />
+      <option name="presentableId" value="LOCAL-00745" />
+      <option name="project" value="LOCAL" />
+      <updated>1719842696661</updated>
+    </task>
+    <task id="LOCAL-00746" summary="Add Scss and BEM changes">
+      <option name="closed" value="true" />
+      <created>1719847710033</created>
+      <option name="number" value="00746" />
+      <option name="presentableId" value="LOCAL-00746" />
+      <option name="project" value="LOCAL" />
+      <updated>1719847710033</updated>
+    </task>
+    <task id="LOCAL-00747" summary="Add NgOnInit implementation">
+      <option name="closed" value="true" />
+      <created>1719848986399</created>
+      <option name="number" value="00747" />
+      <option name="presentableId" value="LOCAL-00747" />
+      <option name="project" value="LOCAL" />
+      <updated>1719848986399</updated>
+    </task>
+    <task id="LOCAL-00748" summary="Add mat-table">
+      <option name="closed" value="true" />
+      <created>1719850629782</created>
+      <option name="number" value="00748" />
+      <option name="presentableId" value="LOCAL-00748" />
+      <option name="project" value="LOCAL" />
+      <updated>1719850629782</updated>
+    </task>
+    <task id="LOCAL-00749" summary="Add mat-table with correct nameAbbr and urlName fields">
+      <option name="closed" value="true" />
+      <created>1719850950718</created>
+      <option name="number" value="00749" />
+      <option name="presentableId" value="LOCAL-00749" />
+      <option name="project" value="LOCAL" />
+      <updated>1719850950718</updated>
+    </task>
+    <task id="LOCAL-00750" summary="Delete all things connected with mat-table">
+      <option name="closed" value="true" />
+      <created>1719851399422</created>
+      <option name="number" value="00750" />
+      <option name="presentableId" value="LOCAL-00750" />
+      <option name="project" value="LOCAL" />
+      <updated>1719851399422</updated>
+    </task>
+    <option name="localTasksCounter" value="751" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="Change condition for this.deleteVPH(1); in list.component.ts" />
+    <MESSAGE value="Add localStorage.setItem(&quot;vPHid&quot;,(sourceAll.id).toString());" />
+    <MESSAGE value="Delete localStorage.setItem(&quot;vPHid&quot;,(sourceAll.id).toString());" />
+    <MESSAGE value="Add two source.id toolbars in video-player-list.component.html" />
+    <MESSAGE value="Change VideoPlayerHistoricalEntity not to generate UUID." />
+    <MESSAGE value="Change VideoPlayerHistoricalEntity not to generate UUID version 2" />
+    <MESSAGE value="Change VideoPlayerHistoricalEntity to generate UUID with id assignment" />
+    <MESSAGE value="Change back VideoPlayerHistoricalEntity to generate UUID" />
+    <MESSAGE value="After store add put get" />
+    <MESSAGE value="After store add put GET_VIDEO_PLAYER_HISTORICAL_LIST and assignVideoPlayersHistorical()" />
+    <MESSAGE value="Put after store add GET_VIDEO_PLAYER_HISTORICAL_LIST and assignVideoPlayersHistorical() second time" />
+    <MESSAGE value="Put after store add GET_VIDEO_PLAYER_HISTORICAL_LIST and assignVideoPlayersHistorical() second time version 2" />
+    <MESSAGE value="Filter GET_VIDEO_PLAYER_HISTORICAL_LIST only for correct watchedUser" />
+    <MESSAGE value="Filter GET_VIDEO_PLAYER_HISTORICAL_LIST only for correct watchedUser version 2" />
+    <MESSAGE value="Add  border-radius: 5px; where needed" />
+    <MESSAGE value="Add  border-radius: 15px; where needed" />
+    <MESSAGE value="Add  border-radius: 15px to css in command and add @PreAuthorize(&quot;isAuthenticated()&quot;)@SecurityRequirement(name = &quot;bearerAuth&quot;) for User, VideoPlayer and VideoPlayerHistorical Controllers" />
+    <MESSAGE value="Delete all slice from date" />
+    <MESSAGE value="Fix border-radius: 15px for command toolbar" />
+    <MESSAGE value="Add code readability improvements" />
+    <MESSAGE value="Add Scss and BEM changes" />
+    <MESSAGE value="Add NgOnInit implementation" />
+    <MESSAGE value="Add mat-table" />
+    <MESSAGE value="Add mat-table with correct nameAbbr and urlName fields" />
+    <MESSAGE value="Delete all things connected with mat-table" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete all things connected with mat-table" />
+  </component>
+</project>

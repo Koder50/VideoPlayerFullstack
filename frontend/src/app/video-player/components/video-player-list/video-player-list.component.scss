@@ -1,0 +1,91 @@
+table {
+    width: 100%;
+  }
+
+.chatParticipantElement {
+  padding-right: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.chatParticipantsRow {
+    white-space: pre-line;
+    min-height: 48px;
+    max-height: 1030px;
+}
+
+.chatParticipantsCell {
+    min-height: 48px;
+    max-height: 1030px;
+}
+
+.hidden1 {
+  display: none !important;
+}
+
+.example-form {
+  font-size: 20px;
+  width: 100px;
+}
+
+$display-flex: flex;
+$flex-direction-column: column;
+$justify-content-center: center;
+$margin-top-20px: 20px;
+$margin-bottom-20px: 20px;
+$margin-bottom-40px: 40px;
+$border-radius-15px: 15px;
+$margin-auto: auto;
+
+.allVideosContainer {
+  display: $display-flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.allVideosContainer__searchedVideosContainer{
+  width: 800px;
+  flex-direction: $flex-direction-column;
+  justify-content: $justify-content-center;
+}
+
+.allVideosContainer__searchedVideoNameAbbr{
+  margin-top: $margin-top-20px;
+  margin-bottom: $margin-bottom-40px;
+  display: $display-flex;
+  justify-content: $justify-content-center;
+  border-radius: $border-radius-15px;
+}
+
+.allVideosContainer__searchedVideoUrlName{
+  margin-left: $margin-auto;
+  margin-right: $margin-auto;
+  margin-bottom: $margin-bottom-20px;
+  border-radius: $border-radius-15px;
+}
+
+.allVideosContainer__videosHistoricalContainer {
+  width: 400px;
+  flex-direction: $flex-direction-column;
+  justify-content: $justify-content-center;
+}
+
+.allVideosContainer__videosHistoricalDescription {
+  margin-bottom: $margin-bottom-40px;
+  border-radius: $border-radius-15px;
+}
+
+.allVideosContainer__videoPlayerHistoricalNameAbbr{
+  margin-top: $margin-top-20px;
+  margin-bottom: $margin-bottom-20px;
+  display: $display-flex;
+  justify-content: $justify-content-center;
+  border-radius: $border-radius-15px;
+}
+
+.allVideosContainer__videoPlayerHistoricalUrlName {
+  margin-left: $margin-auto;
+  margin-right:$margin-auto;
+  margin-bottom: $margin-bottom-20px;
+  border-radius: $border-radius-15px;
+}

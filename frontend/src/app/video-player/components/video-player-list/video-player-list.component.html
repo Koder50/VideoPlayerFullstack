@@ -1,0 +1,47 @@
+<div class="allVideosContainer">
+
+    <div class="allVideosContainer__searchedVideosContainer">
+        
+        <form class="example-form">
+            <mat-form-field class="searchingPhrase">
+              <mat-label>Search video title</mat-label>
+              <input matInput placeholder="Example: skateboarding" [(ngModel)]="this.searchTerm" name="searchTerm">
+            </mat-form-field>
+        
+        </form>
+
+        <div *ngFor="let source of videoPlayers;let index=index">
+
+            <mat-toolbar *ngIf="source.nameAbbr.includes(this.searchTerm) && this.searchTerm.length>2" class="allVideosContainer__searchedVideoNameAbbr">
+                <span>{{source.nameAbbr}}</span>
+            </mat-toolbar>
+
+            <video width="640" height="360" controls *ngIf="source.nameAbbr.includes(this.searchTerm) && this.searchTerm.length>2" (play)="this.addToVideosHistory(source,source.urlName,source.nameAbbr,this.videoPlayersHistorical)" class="allVideosContainer__searchedVideoUrlName">
+            <source src="{{source.urlName}}" type="video/mp4">
+            Your browser does not support the video tag.
+            </video>
+            
+        </div>
+            
+    </div>
+    <div class="allVideosContainer__videosHistoricalContainer">
+
+        <mat-toolbar class="allVideosContainer__videosHistoricalDescription">
+            <span>Last two watched videos</span>
+        </mat-toolbar>
+
+        <div *ngFor="let source of videoPlayersHistorical">
+
+            <mat-toolbar class="allVideosContainer__videoPlayerHistoricalNameAbbr">
+                <span>{{source.nameAbbr}}</span>
+            </mat-toolbar>
+
+            <video width="320" height="180" controls class="allVideosContainer__videoPlayerHistoricalUrlName">
+            <source src="{{source.urlName}}" type="video/mp4">
+            Your browser does not support the video tag.
+            </video>
+        </div>
+    </div>
+
+    
+</div>

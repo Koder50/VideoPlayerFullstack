@@ -1,0 +1,7 @@
+button {
+    margin-right: 10px;
+}
+
+:host::ng-deep.mat-toolbar-row, :host::ng-deep.mat-toolbar-single-row {
+    border-radius: 15px;
+}

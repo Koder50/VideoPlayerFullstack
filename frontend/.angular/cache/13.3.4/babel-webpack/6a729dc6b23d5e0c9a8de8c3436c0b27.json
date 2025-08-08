@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const environment = {\n  production: true,\n  apiURL: \"https://video-player-fullstack-4013e2549a4e.herokuapp.com/api/v1\",\n  authURL: \"https://video-player-fullstack-4013e2549a4e.herokuapp.com\"\n};","map":null,"metadata":{},"sourceType":"module"}

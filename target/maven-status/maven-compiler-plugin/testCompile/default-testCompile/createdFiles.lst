@@ -1,0 +1,4 @@
+com\example\springbootvideoplayers\videoplayers\videoPlayer\service\ChatParticipantServiceTest.class
+com\example\springbootvideoplayers\videoplayers\videoPlayer\h2\service\ChatParticipantH2ServiceTest.class
+com\example\springbootvideoplayers\videoplayers\user\repository\UserRepositoryTest.class
+com\example\springbootvideoplayers\videoplayers\VideoPlayersApplicationTests.class
