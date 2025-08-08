@@ -19,9 +19,9 @@ I am using IntelliJ Idea:
 7) Choose in the bottom 'Maven' -> 'Run Maven' -> 'Clean install' After about few minutes there should be one of messages: 'Build success'. 
 8) In IDE search for the play on bar slightly to the left on top of program and choose the left option from play, Run/Debug Configurations and choose Edit Configurations
 9) At the top left find '-' (Remove configuration) and do it with all configurations there
-10)Find '+' to the left on top (Add Configuration) and click it.
-11)Then choose Application
-12)Then choose name 'VideoPlayer' for example
+10) Find '+' to the left on top (Add Configuration) and click it.
+11) Then choose Application
+12) Then choose name 'VideoPlayer' for example
 13) Then there should be Java 17 SDK of 'videoplayers' module.
 14) Choose main class, there should be VideoPlayersApplication and choose it
 15) Click apply and then ok. You should run it(press play in correct configuration): then go to the browser to localhost:8080 or localhost:8080/ or localhost:8080/login and there should be login page
