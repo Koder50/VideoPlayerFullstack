@@ -26,7 +26,7 @@ I am using IntelliJ Idea:
 14) Choose main class, there should be VideoPlayersApplication and choose it
 15) Click apply and then ok. You should run it(press play in correct configuration): then go to the browser to localhost:8080 or localhost:8080/ or localhost:8080/login and there should be login page
 16) For testing do the same as 10-15, but in 11. choose Junit, in 12 choose name 'VideoPlayer tests' for example, and in 14 there should be User Repository Test class to choose it, so choose it. 15 the same.
-17) To start program, on the bar on top to the left from play you have the name of configuration, choose 'Students journal' and click play, the program starts. Choose 'Students journal tests' the tests start. Tests should all pass and be in green.
+17) To start program, on the bar on top to the left from play you have the name of configuration, choose 'VideoPlayer' and click play, the program starts. Choose 'VideoPlayer tests' the tests start. Tests should all pass and be in green.
 18) There is also Swagger. If the login data from CV is not working you have to in code delete 'Authorize' button, then create for example two users. If login data works you have to create three video players
     (first use post Authenticate, use login data from CV or which you created, copy the token, click button 'Authorize' and paste token there, press authorize, should be success and close). If you deleted button 'Authorize' then you can omit those activities).
 19) Go the post query 'video-players' and three times do this query: in urlName first time put 'assets/surfing.mp4' and nameAbbr: 'surfing', second time put in urlName 'assets/falls2.mp4' and nameAbbr: 'falls' and
