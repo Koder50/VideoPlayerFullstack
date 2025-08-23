@@ -2,7 +2,7 @@
 It is a project of Video Player - inspired by Youtube. It enables searching for one of three videos: "surfing", "falls" or "skateboarding" and then watch it. There is also a history of last two different 
 films watched (another example of database use)
 ## Technologies
-Spring Boot, Angular, CSS, Typescript, HTML, Java 17, Spring Data JPA, Swagger UI, Spring Security, JUnit, AssertJ, NGRX, Maven, Postgresql
+Spring Boot, <br>Angular, <br>CSS, <br>Typescript, <br>HTML, <br>Java 17, <br>Spring Data JPA, <br>Swagger UI, <br>Spring Security, <br>JUnit, <br>AssertJ, <br>NGRX, <br>Maven, <br>Postgresql
 ## Swagger
 
 http://localhost:8080/swagger-ui/index.html
