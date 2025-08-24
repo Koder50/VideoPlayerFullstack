@@ -8,7 +8,7 @@ On Heroku: https://video-player-fullstack-4013e2549a4e.herokuapp.com Logging: ù
 ## Features
 - Search and play videos (surfing, falls, skateboarding)  
 - History of the last two different videos watched  
-- User-specific video history  
+- User specific video history  
 - Multiple simultaneous user sessions  
 - Secure authentication with Spring Security  
 - Swagger API documentation  
