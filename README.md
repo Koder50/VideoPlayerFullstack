@@ -1,12 +1,47 @@
-# Project
-It is a project of Video Player - inspired by Youtube. It enables searching for one of three videos: "surfing", "falls" or "skateboarding" and then watch it. There is also a history of last two different 
-films watched (another example of database use)
+# VideoPlayer
+A fullstack chat application where user can watch videos - inspired by Youtube. It enables searching for one of three videos: "surfing", "falls" or "skateboarding" and then watch it. There is also a history of the last two different videos watched (demonstrating database usage)
+
+## Live Demo
+localhost:8080 : logging extends functionality; 𝗹𝗼𝗴𝗶𝗻: student@mail.com, 𝗽𝗮𝘀𝘀: Chatanti1; 𝗹𝗼𝗴𝗶𝗻: teacher@mail.com, 𝗽𝗮𝘀𝘀: Chatanti1 <br>
+On Heroku: https://video-player-fullstack-4013e2549a4e.herokuapp.com Logging: 𝗹𝗼𝗴𝗶𝗻: karol@mail7.com, 𝗽𝗮𝘀𝘀: Chatanti1; 𝗹𝗼𝗴𝗶𝗻: karol@mail8.com, 𝗽𝗮𝘀𝘀: Chatanti2
+
+## Features
+- Search and play videos (surfing, falls, skateboarding)  
+- History of the last two different videos watched  
+- User-specific video history  
+- Multiple simultaneous user sessions  
+- Secure authentication with Spring Security  
+- Swagger API documentation  
+
+## Table of Contents
+- [VideoPlayer](#VideoPlayer) 
+- [Live Demo](#live-demo)
+- [Features](#Features) 
+- [Table of Contents](#table-of-contents)
+- [Screenshots](#Screenshots) 
+- [Technologies](#Technologies)
+- [Swagger](#Swagger) 
+- [Installation and usage](#installation-and-usage)
+- [Challenges](#Challenges)  
 
 ## Screenshots
 <img width="1913" height="965" alt="videoPlayerFullstack1" src="https://github.com/user-attachments/assets/72d33dce-df0d-47a6-9602-56453e4495b8" />
 
 ## Technologies
-Spring Boot, <br>Angular, <br>CSS, <br>Typescript, <br>HTML, <br>Java 17, <br>Spring Data JPA, <br>Swagger UI, <br>Spring Security, <br>JUnit, <br>AssertJ, <br>NGRX, <br>Maven, <br>Postgresql
+- Spring Boot
+- Angular
+- CSS
+- TypeScript
+- HTML
+- Java 17
+- Spring Data JPA
+- Swagger UI
+- Spring Security
+- JUnit
+- AssertJ
+- NGRX
+- Maven
+- PostgreSQL
 
 ## Swagger
 
@@ -32,13 +67,13 @@ I am using IntelliJ Idea:
 15) Click apply and then ok. You should run it(press play in correct configuration): then go to the browser to localhost:8080 or localhost:8080/ or localhost:8080/login and there should be login page
 16) For testing do the same as 10-15, but in 11. choose Junit, in 12 choose name 'VideoPlayer tests' for example, and in 14 there should be User Repository Test class to choose it, so choose it. 15 the same.
 17) To start program, on the bar on top to the left from play you have the name of configuration, choose 'VideoPlayer' and click play, the program starts.
-    Clean install and VideoPlayer configuration both successfully working enables swagger ad application login. Next test configuration is an addition.
+    Clean install and VideoPlayer configuration both successfully working enables swagger and application login. Next test configuration is an addition.
     Choose 'VideoPlayer tests' the tests start. Tests should all pass and be in green.
 19) There is also Swagger. If the login data from CV is not working you have to in code delete 'Authorize' button, then create for example two users. If login data works you have to create three video players
     (first use post Authenticate, use login data from CV or which you created, copy the token, click button 'Authorize' and paste token there, press authorize, should be success and close). If you deleted button 'Authorize' then you can omit those activities).
 20) Go the post query 'video-players' and three times do this query: in urlName first time put 'assets/surfing.mp4' and nameAbbr: 'surfing', second time put in urlName 'assets/falls2.mp4' and nameAbbr: 'falls' and
     last, third time put in urlName 'assets/skateboarding.mp4' and nameAbbr: 'skateboarding'.
-21) Now you can log in. There you search for the film - there are as you see three films - surfing, skateboarding and falls. You can watch it and you have information about your history watching.
+21) Now you can log in. Use the search to find one of the three videos - surfing, skateboarding and falls. You can watch it and you have information about your history watching.
 
 ## Challenges
 
