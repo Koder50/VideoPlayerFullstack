@@ -34,3 +34,15 @@ I am using IntelliJ Idea:
 20) Go the post query 'video-players' and three times do this query: in urlName first time put 'assets/surfing.mp4' and nameAbbr: 'surfing', second time put in urlName 'assets/falls2.mp4' and nameAbbr: 'falls' and
     last, third time put in urlName 'assets/skateboarding.mp4' and nameAbbr: 'skateboarding'.
 21) Now you can log in. There you search for the film - there are as you see three films - surfing, skateboarding and falls. You can watch it and you have information about your history watching.
+
+## Challenges
+
+1. Searching for a video to play.
+2. Making history of two last different video played with use of database.
+3. Logging to app for many accounts simultaneously.
+4. Making each account see only its history of video played.
+5. Making Swagger.
+   
+## Screen
+<img width="1913" height="965" alt="videoPlayerFullstack1" src="https://github.com/user-attachments/assets/72d33dce-df0d-47a6-9602-56453e4495b8" />
+
