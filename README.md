@@ -1,13 +1,18 @@
 # Project
 It is a project of Video Player - inspired by Youtube. It enables searching for one of three videos: "surfing", "falls" or "skateboarding" and then watch it. There is also a history of last two different 
 films watched (another example of database use)
+
+## Screenshots
+<img width="1913" height="965" alt="videoPlayerFullstack1" src="https://github.com/user-attachments/assets/72d33dce-df0d-47a6-9602-56453e4495b8" />
+
 ## Technologies
 Spring Boot, <br>Angular, <br>CSS, <br>Typescript, <br>HTML, <br>Java 17, <br>Spring Data JPA, <br>Swagger UI, <br>Spring Security, <br>JUnit, <br>AssertJ, <br>NGRX, <br>Maven, <br>Postgresql
+
 ## Swagger
 
 http://localhost:8080/swagger-ui/index.html
 
-## How to use
+## Installation and usage
 I am using IntelliJ Idea:
 
 1) Download Zip File from github(on main page of repository find green button 'Code', click it and then find and click 'Download Zip')
@@ -42,7 +47,7 @@ I am using IntelliJ Idea:
 3. Logging to app for many accounts simultaneously.
 4. Making each account see only its history of video played.
 5. Making Swagger.
-   
-## Screen
-<img width="1913" height="965" alt="videoPlayerFullstack1" src="https://github.com/user-attachments/assets/72d33dce-df0d-47a6-9602-56453e4495b8" />
+
+## Live Demo
+On Heroku: https://video-player-fullstack-4013e2549a4e.herokuapp.com Logging like in section "O mnie" point 7. on https://www.linkedin.com/in/karol-g%C3%B3ralczyk-74a6a8295/
 
