@@ -2,7 +2,7 @@
 A fullstack chat application where user can watch videos - inspired by Youtube. It enables searching for one of three videos: "surfing", "falls" or "skateboarding" and then watch it. There is also a history of the last two different videos watched (demonstrating database usage)
 
 ## Live Demo
-localhost:8080 : logging extends functionality; 𝗹𝗼𝗴𝗶𝗻: student@mail.com, 𝗽𝗮𝘀𝘀: Chatanti1; 𝗹𝗼𝗴𝗶𝗻: teacher@mail.com, 𝗽𝗮𝘀𝘀: Chatanti1 <br>
+Locally: localhost:8080 : logging extends functionality; 𝗹𝗼𝗴𝗶𝗻: student@mail.com, 𝗽𝗮𝘀𝘀: Chatanti1; 𝗹𝗼𝗴𝗶𝗻: teacher@mail.com, 𝗽𝗮𝘀𝘀: Chatanti1 <br>
 On Heroku: https://video-player-fullstack-4013e2549a4e.herokuapp.com Logging: 𝗹𝗼𝗴𝗶𝗻: karol@mail7.com, 𝗽𝗮𝘀𝘀: Chatanti1; 𝗹𝗼𝗴𝗶𝗻: karol@mail8.com, 𝗽𝗮𝘀𝘀: Chatanti2
 
 ## Features
@@ -82,7 +82,4 @@ I am using IntelliJ Idea:
 3. Logging to app for many accounts simultaneously.
 4. Making each account see only its history of video played.
 5. Making Swagger.
-
-## Live Demo
-On Heroku: https://video-player-fullstack-4013e2549a4e.herokuapp.com Logging like in section "O mnie" point 7. on https://www.linkedin.com/in/karol-g%C3%B3ralczyk-74a6a8295/
 
